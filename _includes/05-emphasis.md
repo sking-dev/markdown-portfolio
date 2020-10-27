@@ -1,1 +1,5 @@
-Write out some of your awesome attributes, and use emphasis (like bold or italics) to identify keywords, programming languages, or skills. 
+Infrastructure _as_ **Code**
+
+**Documentation**
+
+_Making a G&T_
